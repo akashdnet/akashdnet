@@ -31,10 +31,10 @@ const Hero = () => {
 
                     {/* Buttons */}
                     <div className="flex flex-wrap gap-4 justify-center lg:justify-start mb-8">
-                        {/* <Link href="#"
+                        <Link href="#"
                             className="gradient-bg text-white px-8 py-4 rounded-full font-semibold inline-flex items-center gap-2 shadow-lg shadow-indigo-500/40 hover:-translate-y-1 hover:shadow-xl hover:shadow-indigo-500/50 transition-all duration-300">
                             <i className="fas fa-download"></i> Download Resume
-                        </Link> */}
+                        </Link>
                         <Link href="#contact"
                             className="bg-white text-primary border-2 border-primary px-8 py-4 rounded-full font-semibold inline-flex items-center gap-2 hover:bg-primary hover:text-white hover:-translate-y-1 transition-all duration-300">
                             <i className="fas fa-paper-plane"></i> Contact Me
