@@ -5,10 +5,10 @@ const Footer = () => {
     return (
         <footer className="bg-slate-800 text-white py-12 px-[5%]">
             <div className="max-w-6xl mx-auto">
-                <div className="flex flex-col md:flex-row justify-between items-center gap-8 pb-8 border-b border-white/10">
-                    <Link href="#" className="font-dancing text-3xl">{data.nameFull}</Link>
+                <div className="grid md:grid-cols-3 grid-cols-2 md:justify-between justify-center items-center gap-8 pb-8 border-b border-white/10">
+                    <Link href="#" className="font-dancing text-3xl col-span-3 md:col-span-1">{data.nameFull}</Link>
 
-                    <div className="flex flex-col flex-wrap justify-center gap-2">
+                    <div className="flex flex-col flex-wrap justify-center gap-2 ">
                         <h1 className=" font-bold">QuicK Links</h1>
                         {data.navLinks.map(link => (
                             <Link key={link.name} href={link.href} className="text-white/70 hover:text-white transition-colors capitalize">
