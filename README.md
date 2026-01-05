@@ -34,15 +34,15 @@ Hi there! 👋 This is MD Imtiaz Khondoker Akash. I work as a Full Stack Web Dev
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=akashdnet&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=tokyonight" alt="GitHub Streak" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=akashdnet&theme=tokyonight" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranesh-2005&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akashdnet&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
 </table><br><br><br>
