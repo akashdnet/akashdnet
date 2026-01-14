@@ -36,7 +36,7 @@ Hi there! 👋 This is MD Imtiaz Khondoker Akash. I work as a Full Stack Web Dev
 | DB ORM          | Prisma                                        |
 | Authentication  | Better Auth                                   |
 | Payment         | Stripe                                        |
-| Tools           | Git, GitHub, Postman, VS Code (Code Editor)   |
+| Tools           | Git, GitHub, Postman   |
 
 
 
