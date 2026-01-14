@@ -22,13 +22,26 @@ Hi there! 👋 This is MD Imtiaz Khondoker Akash. I work as a Full Stack Web Dev
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.strapi.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="25" /></a>  
-</div><br><br><br>
+<a href="https://www.stripe.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" alt="Stripe" height="25" /></a>  
+<a href="https://www.better-auth.com/" target="_blank"><img style="margin: 10px" src="https://images.seeklogo.com/logo-png/65/1/better-auth-logo-png_seeklogo-653281.png" alt="Better-Auth" height="25" /></a>  
+</div><br>
+
+| Category        | Technologies                                   |
+|-----------------|-----------------------------------------------|
+| Language        | JavaScript, TypeScript, Python                |
+| Frontend        | TailwindCSS, shadcn/ui, React.js, Next.js     |
+| Backend         | Node.js, Express.js                        |
+| Validation         | react-hook-from, zod                        |
+| Database        | MongoDB, PostgreSQL                           |
+| DB ORM          | Prisma                                        |
+| Authentication  | Better Auth                                   |
+| Payment         | Stripe                                        |
+| Tools           | Git, GitHub, Postman, VS Code (Code Editor)   |
 
 
 
 
-
+<br><br><br>
 # 📊 GitHub Stats:
 
 <table align="center">
