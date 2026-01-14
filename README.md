@@ -1,7 +1,7 @@
  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHp1cjlyOWlqd3AxZzg1ZWN4enNvOHRyd216ZWMxdWR2a3NqaWw3aSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="welcome Banner" width="100%" height="200px" /><br><br>
 # 🔥 About Me:
 
-Hi there! 👋 This is MD Imtiaz Khondoker Akash. I work as a Full Stack Web Developer specializing in the  🚀 MERN stack  with ⚡expertise in TypeScript React.js, Next.js, Node.js, Express.js, MongoDB and PostgreSQL.<br><br><br>
+Hi there! 👋 This is MD Imtiaz Khondoker Akash. I work as a Full Stack Web Developer specializing in the  🚀 MERN stack. Solving problem is key to grow, and thats what im doing.
 
 # 💻 Tech Stack:
 <div align="center">  
